@@ -1,0 +1,2 @@
+Alice  And  Bob:
+2     0
